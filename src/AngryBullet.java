@@ -11,7 +11,7 @@ import java.lang.Math;
  * @author Alper Vural
  * @since Date: 03/13/2024
  */
-public class AlperVural {
+public class AngryBullet {
     public static void main(String[] args) {
         // Game Parameters
         int width = 1600; //screen width
