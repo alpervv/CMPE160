@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * A solution method for delivery man problem. Ant colony optimization
  * is inspired by ants finding a very short path to a food source.
- * @author Alper Vural, Student ID: 2023400066
+ * @author Alper Vural
  * @since Date: May 2024
  */
 public class AntColony extends SolutionMethod{
