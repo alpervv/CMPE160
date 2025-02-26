@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * consists of determining a Hamiltonian circuit minimizing the sum
  * of distances (along the circuit) from a given vertex v,
  * to every vertex of V, including v itself.
- * @author Alper Vural, Student ID: 2023400066
+ * @author Alper Vural
  * @since Date: May 2024
  */
 public abstract class SolutionMethod {
