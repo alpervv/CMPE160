@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * A solution method for delivery man problem. Bruteforce method tries
  * all permutations for given set of nodes to find the optimal solution.
- * @author Alper Vural, Student ID: 2023400066
+ * @author Alper Vural
  * @since Date: May 2024
  */
 public class BruteForce extends SolutionMethod{
