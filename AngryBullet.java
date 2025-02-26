@@ -8,7 +8,7 @@ import java.lang.Math;
  * Change the initial speed of the bullet by Left and Right arrows.
  * Obstacles are displayed with grey rectangles, targets are displayed with orange rectangles.
  * Press "space bar" to shoot, press "r" if you want to try again!
- * @author Alper Vural, Student ID: 2023400066
+ * @author Alper Vural
  * @since Date: 03/13/2024
  */
 public class AlperVural {
